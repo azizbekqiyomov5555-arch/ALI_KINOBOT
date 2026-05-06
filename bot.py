@@ -27,7 +27,7 @@ from telegram.ext import (
 )
 
 # ─── KONFIGURATSIYA ────────────────────────────────────────
-BOT_TOKEN  = os.environ.get("BOT_TOKEN")  or "8723400610:AAH9haL0WChkCsGBx1AGW3uOGVt4XHOZ3LU"
+BOT_TOKEN  = os.environ.get("BOT_TOKEN")  or "8681957463:AAHGGjD72KSnZCABvLn4bVQzg83KjRBbiN0"
 ADMIN_ID   = int(os.environ.get("ADMIN_ID") or "8537782289")
 
 
