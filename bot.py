@@ -52,8 +52,8 @@ def is_admin(uid) -> bool:
     except Exception:
         return False
 
-JSONBLOB_URL      = os.environ.get("JSONBLOB_URL") or "https://jsonblob.com/api/jsonBlob/019df4aa-10b1-725c-83f5-9901ab2db9b6"
-GSHEET_ID         = os.environ.get("GSHEET_ID")    or "1Lodn9MTb7nysq5l80cQVCu9IKfgQRlnNe654PT0hKQs"
+JSONBLOB_URL      = os.environ.get("JSONBLOB_URL") or "https://jsonblob.com/api/jsonBlob/018df4aa-10b1-735c-83f5-9901ab2db9b6"
+GSHEET_ID         = os.environ.get("GSHEET_ID")    or "1Lodn9MTb7nysq5l80cQVCu9IKfgQRlnNe754PT0hKQs"
 GSHEET_API        = os.environ.get("GSHEET_API")   or ""
 NPOINT_URL        = os.environ.get("NPOINT_URL")   or ""
 LOCAL_BACKUP_FILE = "db_backup.json"
