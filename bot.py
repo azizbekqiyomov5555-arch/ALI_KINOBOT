@@ -32,7 +32,7 @@ BOT_TOKEN  = os.environ.get("BOT_TOKEN")  or "8717483733:AAHBS_dQjHGnoiprtkfenqR
 ADMIN_ID   = int(os.environ.get("8537782289") or "8537782289")
 
 
-JSONBLOB_URL      = os.environ.get("JSONBLOB_URL") or "https://jsonblob.com/019e2abc-0f43-7708-9c0f-eb27adf5aacb"
+JSONBLOB_URL      = os.environ.get("JSONBLOB_URL") or "https://jsonblob.com/019e2ac4-b0d0-74d5-9468-9b97a381abdf"
 GSHEET_ID         = os.environ.get("GSHEET_ID")    or "1XBuO-K6Aqa6ocISRrAKO7pi8Fhl0YJVkcnQSGeYCqsQ"
 GSHEET_API        = os.environ.get("GSHEET_API")   or ""
 NPOINT_URL        = os.environ.get("NPOINT_URL")   or ""
